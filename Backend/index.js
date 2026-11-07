@@ -1,4 +1,4 @@
-import "dotenv/config";   // ⬅️ SABSE PEHLE — ye .env ko foran load karta hai
+import "dotenv/config";  
 import express from "express";
 import cors from "cors";
 import dbconection from "./shared/config/db/dbconection.js";
